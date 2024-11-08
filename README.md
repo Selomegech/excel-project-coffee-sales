@@ -22,4 +22,4 @@ This Excel project provides a comprehensive analysis of a Coffee Sales Data. The
 * **Data Sources:** The data used in this project was sourced from [(https://github.com/mochen862/excel-project-coffee-sales/blob/main/coffeeOrdersData.xlsx)].
 
 
-![Excel Dashboard](Capture.png)
+![Excel Dashboard](Capture.PNG)
